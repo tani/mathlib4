@@ -1,1 +1,0 @@
-Error: API Error (404): {"error":{"message":"The model `Qwen3/Qwen3-Coder-Next-FP8` does not exist.","type":"NotFoundError","param":"model","code":404}}
